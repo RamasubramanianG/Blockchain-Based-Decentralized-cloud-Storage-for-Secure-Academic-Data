@@ -1,0 +1,12 @@
+com\hari\StudentManagementSystem_Backend\config\CorsConfig$1.class
+com\hari\StudentManagementSystem_Backend\controller\UserController.class
+com\hari\StudentManagementSystem_Backend\model\User.class
+com\hari\StudentManagementSystem_Backend\StudentManagementSystemBackendApplication.class
+com\hari\StudentManagementSystem_Backend\config\CorsConfig.class
+com\hari\StudentManagementSystem_Backend\Repository\UserRepository.class
+com\hari\StudentManagementSystem_Backend\service\StudentService.class
+com\hari\StudentManagementSystem_Backend\config\SecurityConfig.class
+com\hari\StudentManagementSystem_Backend\Repository\StudentRepository.class
+com\hari\StudentManagementSystem_Backend\controller\AuthController.class
+com\hari\StudentManagementSystem_Backend\model\Student.class
+com\hari\StudentManagementSystem_Backend\service\UserService.class

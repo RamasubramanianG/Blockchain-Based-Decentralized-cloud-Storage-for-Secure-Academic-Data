@@ -1,0 +1,14 @@
+{"properties": [
+  {
+    "name": "openapi.serverurl",
+    "type": "java.lang.String",
+    "description": "A description for 'openapi.serverurl'"
+  },
+    {
+      "name": "frontend.url",
+      "type": "java.lang.String",
+      "description": "A description for 'frontend.url'"
+    }
+  ]
+}
+

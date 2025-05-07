@@ -1,0 +1,51 @@
+/* ✅ Style the Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;  /* Spread elements horizontally */
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #212a34; /* Blue background */
+  color: white;
+}
+
+/* ✅ Style the Navbar UL (List) */
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;  /* Space between items */
+  padding: 0;
+  margin: 0;
+}
+
+/* ✅ Style List Items */
+.navbar li {
+  display: inline-block;
+}
+
+/* ✅ Style Links */
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* ✅ Style Logout Button */
+.navbar button {
+  background: #dc3545; /* Red button */
+  border: none;
+  padding: 8px 12px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.navbar button:hover {
+  background: #a71d2a; /* Darker red on hover */
+}

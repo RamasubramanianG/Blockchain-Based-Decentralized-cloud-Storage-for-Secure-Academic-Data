@@ -1,0 +1,8 @@
+server credentials
+
+
+DATASOURCE_URL =jdbc:mysql://bnhvmfawpl1twoix9ohd-mysql.services.clever-cloud.com:3306/bnhvmfawpl1twoix9ohd
+DATASOURCE_USER =ugpkihpvlxcoifv3
+DATASOURCE_PASSWORD =eqWzQeEM68vvHo0GBgki
+
+

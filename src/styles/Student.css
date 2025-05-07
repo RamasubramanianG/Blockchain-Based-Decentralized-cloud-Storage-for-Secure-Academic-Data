@@ -1,0 +1,72 @@
+.students-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Centers the heading */
+}
+
+.students-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.add-student-btn {
+  display: block;
+  margin: 10px auto; /* Centers the button */
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.students-table-container {
+  display: flex;
+  justify-content: center;
+}
+
+.students-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.students-table th,
+.students-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.students-table th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.student-actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.student-actions button {
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.student-actions .edit {
+  background-color: #007bff;
+  color: white;
+}
+
+.student-actions .delete {
+  background-color: #dc3545;
+  color: white;
+}
