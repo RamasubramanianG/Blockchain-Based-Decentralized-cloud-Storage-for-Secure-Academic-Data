@@ -1,8 +1,6 @@
 # Blockchain-Based-Decentralized-cloud-Storage-for-Secure-Academic-Data
 
-
-
-# 🧾 Student Management System (SDMS) - Full Stack 🔗
+ 🧾 Student Management System (SDMS) - Full Stack 🔗
 
 A secure, decentralized, blockchain-based Student Database Management System using:
 
